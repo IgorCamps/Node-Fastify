@@ -1,4 +1,4 @@
-POST http://localhost:3333/videos
+POST https://node-fastify-w1q4.onrender.com/videos
 Content-Type:  application/json
 
 {
@@ -8,16 +8,16 @@ Content-Type:  application/json
 }
 
 ###
-GET http://localhost:3333/videos
+GET https://node-fastify-w1q4.onrender.com/videos
 ###
-PUT http://localhost:3333/videos/6cde6280-abb3-4ba5-a400-1502ade5f3cd
+PUT https://node-fastify-w1q4.onrender.com/videos/6cde6280-abb3-4ba5-a400-1502ade5f3cd
 Content-Type:  application/json
 
 {
-    "title": "Video 0asdd9",
+    "title": "Video 2",
     "description": "Esse é o vídeo 02",
     "duration": 180
 }
 
 ###
-DELETE http://localhost:3333/videos/9712af53-94cc-484e-b4a3-1e321d128fb6
+DELETE https://node-fastify-w1q4.onrender.com/videos/6cde6280-abb3-4ba5-a400-1502ade5f3cd
