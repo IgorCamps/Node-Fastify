@@ -99,5 +99,5 @@ DELETE /videos/:id
 Este projeto está sob a licença MIT. Sinta-se à vontade para utilizá-lo e melhorá-lo!
 
 ---
-Feito com 💙 por [Seu Nome](https://github.com/seu-usuario)
+Feito com 💙 por [Igor Campos](https://github.com/IgorCamps)
 
